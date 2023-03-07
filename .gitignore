@@ -1,0 +1,4 @@
+*.log
+dir/
+status/dir
+lambda_function
